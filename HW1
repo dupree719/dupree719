@@ -1,0 +1,36 @@
+HW1 - Java
+
+public class HW1 {
+    public static void main(String[] args) {
+        System.out.println(3 + 3);
+    }
+}
+
+
+public class HW1 {
+    public static void main(String[] args) {
+        String homework = "I understand what I'm doing";
+        System.out.println(homework);
+    }
+}
+
+
+public class HW1 {
+    public static void main(String[] args) {
+       boolean hotOutside = true;
+       System.out.println(hotOutside);
+
+    }
+}
+
+
+public class HW1 {
+    public static void main(String[] args) {
+       char firstInitial = 'I';
+       System.out.println(firstInitial);
+
+    }
+}
+
+
+//this is a comment and would appear gray not affecting code
