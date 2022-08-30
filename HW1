@@ -4,6 +4,7 @@ public class HW1 {
     public static void main(String[] args) {
         System.out.println(3 + 3);
     }
+    //The number 6 would be printed
 }
 
 
@@ -30,7 +31,6 @@ public class HW1 {
        System.out.println(firstInitial);
 
     }
+    
+    //Must use single quote with chars, double quotes for strings
 }
-
-
-//this is a comment and would appear gray not affecting code
